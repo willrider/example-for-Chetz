@@ -1,0 +1,16 @@
+﻿{
+  "CurrentProfile": "MHWorld",
+  "Profiles": [
+    {
+      "name": "MHWorld",
+      "id": 1,
+      "KeysDefinition": [
+        {"1": "C:\\apps\\1.exe"},
+        {"2": "C:\\apps\\2.exe"},
+        {"3": "C:\\apps\\3.exe"},
+        {"4": "C:\\apps\\4.exe"},
+        {"5": "C:\\apps\\5.exe"}
+      ]
+    }
+  ]
+}
